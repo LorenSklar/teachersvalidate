@@ -1,6 +1,6 @@
 <script>
-  const teacherForm = "YOUR_TEACHER_FORM_URL";
-  const founderForm = "YOUR_FOUNDER_FORM_URL";
+  const teacherForm = "https://forms.gle/6vyEzT8jDiGYbEzn9";
+  const founderForm = "https://forms.gle/RPSzZNqYLedcp1d96";
 </script>
 
 <main>
