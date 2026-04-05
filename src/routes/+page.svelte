@@ -9,7 +9,7 @@
     <div class="button-container">
       <a href={founderForm} target="_blank" class="button">
         <span>I'm a founder.</span>
-        <span>I need real feedback to iterate faster.</span>
+        <span>I built a real solution. Why don't teachers care?</span>
       </a>
       <a href={teacherForm} target="_blank" class="button">
         <span>I'm a teacher.</span>
