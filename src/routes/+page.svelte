@@ -8,12 +8,10 @@
     <h1>Be part of the movement changing EdTech.</h1>
     <div class="button-container">
       <a href={founderForm} target="_blank" class="button">
-        <span>I'm a founder.</span>
-        <span>I built a real solution. Why don't teachers care?</span>
+        I'm a founder with a real solution. Why can't I get traction?
       </a>
       <a href={teacherForm} target="_blank" class="button">
-        <span>I'm a teacher.</span>
-        <span>Stop asking me to help for free.</span>
+        I'm a teacher with earned expertise. Stop asking me to help for free.
       </a>
     </div>
   </div>
