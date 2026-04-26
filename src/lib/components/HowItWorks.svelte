@@ -1,9 +1,9 @@
 <section>
-  <h2>How it works</h2>
+  <h2>How do I earn?</h2>
   <div class="steps">
     <div class="step">
       <span class="number">01</span>
-      <p>Founders post their edtech tool</p>
+      <p>Founders post their edtech tool to the platform</p>
     </div>
     <div class="arrow">→</div>
     <div class="step">
@@ -13,7 +13,7 @@
     <div class="arrow">→</div>
     <div class="step">
       <span class="number">03</span>
-      <p>Founders pay to hear what actually works in classrooms</p>
+      <p>Founders pay you to hear what actually works in the classroom</p>
     </div>
   </div>
 </section>
@@ -29,7 +29,7 @@
   }
 
   h2 {
-    font-size: clamp(0.8rem, 2vw, 0.9rem);
+    font-size: clamp(1.0rem, 2vw, 1.1rem);
     color: rgba(255, 255, 255, 0.45);
     font-weight: 400;
     text-transform: uppercase;
@@ -53,7 +53,7 @@
   }
 
   .number {
-    font-size: clamp(0.8rem, 2vw, 0.9rem);
+    font-size: clamp(1.0rem, 2vw, 1.1rem);
     font-weight: 700;
     color: #DFFF00;
     letter-spacing: 0.1em;

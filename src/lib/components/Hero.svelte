@@ -6,7 +6,7 @@
     <li>→ The most aggressive sales team wins.</li>
   </ul>
   -->
-  <h1>Hey Teachers, <br>You Know What Works. <br>Now Get Paid For It.</h1>
+  <h1>Hey Teachers, <br>You Know What Works. <br>Get Paid For It.</h1>
 
 </section>
 

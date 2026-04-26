@@ -21,7 +21,7 @@
   }
 
   .label {
-    font-size: clamp(0.8rem, 2vw, 0.9rem);
+    font-size: clamp(1.0rem, 2vw, 1.1rem);
     color: rgba(255, 255, 255, 0.45);
     text-transform: uppercase;
     letter-spacing: 0.15em;
@@ -46,7 +46,6 @@
     color: #DFFF00;
     background: transparent;
     font-size: clamp(1.15rem, 3vw, 1.35rem);
-    font-weight: 700;
     text-decoration: none;
     box-sizing: border-box;
     transition: border-width 0.1s;
@@ -54,6 +53,7 @@
 
   .button:hover {
     border-width: 4px;
+    font-weight: 700;
   }
 
   @media (min-width: 768px) {
